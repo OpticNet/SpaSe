@@ -40,6 +40,8 @@ function AssetTree.Load()
 					elseif filetype=="map" then
 						-- LOAD MAPS
 					end
+
+
 				end
 			end
 		end
